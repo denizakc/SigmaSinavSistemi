@@ -33,13 +33,5 @@ Programın düzgün çalışabilmesi için aşağıdaki yönergeleri takip edini
     -Veritabanı olarak Sql Server kullanılmaktadır.
    
    
-## PROJE GRUBU
 
-   212802090 ABDUSSAMED TEMİZ  
-
-   212802088 MERT FAZLI SAYLAK [Github Linki](https://github.com/merttfazli)
-
-   202802068 MUHAMMED YUSUF BOZKURT [Github Linki](https://github.com/MuhammedYusufBozkurt)
-    
-    
 
